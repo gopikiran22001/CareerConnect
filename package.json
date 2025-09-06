@@ -1,0 +1,22 @@
+{
+  "name": "careerconnect",
+  "version": "1.0.0",
+  "description": "CareerConnect is a full-stack job portal designed to streamline the connection between job seekers and employers. The platform allows candidates to create profiles, upload resumes, and apply for jobs, while enabling companies to post and manage job openings efficiently.",
+  "homepage": "https://github.com/gopikiran22001/CareerConnect#readme",
+  "bugs": {
+    "url": "https://github.com/gopikiran22001/CareerConnect/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopikiran22001/CareerConnect.git"
+  },
+  "license": "ISC",
+  "author": "CrazyCoders",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd Client && npm install",
+    "client": "cd Client && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
